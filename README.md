@@ -8,15 +8,15 @@
 <h2>About the code</h2>
 <p> The code cosists from five main functions each will be described bellow:
 <ul>
-  <li> def fun(x):</li>
+  <li><pre> def fun(x):</pre></li>
   <p> This function defines the predictor or function that we want to apply aka <i>"Linear Function"</i></p>
-  <li> def weightvec():</li>
+  <li> <pre>def weightvec():</pre></li>
   <p> This function defines an initial weight so we can use it in our code.  </p>
-  <li>def trainLoss(w):</li>
+  <li><pre>def trainLoss(w):</pre></li>
   <p>Which defines the loss function that we'll use, here i've chose to evaluate the performance using mean squre error(MSE). </p>
-  <li>def GradientTrainLoss(w):</li>
+  <li><pre>def GradientTrainLoss(w):</pre></li>
   <p>This function calculate the gradiant of the loss function to make the needed updates on the weight in the trining process. </p>
-  <li>def GradientDescentFun(F, gradientF, weightvec):</li>
+  <li><pre>def GradientDescentFun(F, gradientF, weightvec):</pre></li>
   <p> This is the last function that is specified to use all of the functions above.</p>
 </ul>
 <h2>How I can run the code ?</h2>
