@@ -22,5 +22,5 @@
 <h2>How I can run the code ?</h2>
 <p> Using any of the softwares that can open the notebook file like anaconda and visual studio code or online using google colab.   </p>
 
-<p>For example click on this  <a href="https://colab.research.google.com/drive/1PQSGJLphVMl687SQ48-MoSWvjeIb5uft?usp=sharing">Open in Google Colab</a></p>
+<p>For example click on this button:  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/><a href="https://colab.research.google.com/drive/1LV9h--LiKA3lgzChXQiGgamyakaNhJFy?usp=sharing"></a></p>
 
